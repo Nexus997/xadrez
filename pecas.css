@@ -1,0 +1,30 @@
+img {
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+}
+
+body{
+    display:flex;
+    flex-direction: column;
+}
+
+.container-horizontal {
+    display: flex;
+    flex-direction: row;
+}
+
+.container-horizontal img{
+    margin: 0 100px;
+}
+
+p {
+    margin: 20px 0;
+    display: flex
+;
+}
+
+p#voltar {
+    position: absolute;
+    left: 0;
+}
