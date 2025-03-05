@@ -21,7 +21,7 @@ body{
 p {
     margin: 20px 0;
     display: flex
-;
+; font-size:25px;
 }
 
 p#voltar {
